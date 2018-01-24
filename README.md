@@ -1,2 +1,2 @@
 # YMSpecs
-My cocoapods spec
+My cocoapods specs
