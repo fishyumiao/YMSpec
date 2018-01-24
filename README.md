@@ -1,0 +1,2 @@
+# YMSpec
+My cocoapods spec
